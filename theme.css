@@ -30,7 +30,7 @@ H2, #menubar DT, .throw {
 margin-top:0;
 }
 /* backgrounds */
-BODY, H3, .throw, #content {
+BODY, .throw, #content {
   background-color: #414141;
 }
 
